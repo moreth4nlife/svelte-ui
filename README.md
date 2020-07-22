@@ -5,7 +5,7 @@ Svelte components to be used in web applications.
 
 ## Get it to work
 
-> Copy, Clone or Download repository and import components through /_components/components.js_
+> Copy, clone or download repository and import components through /_components/components.js_
 
 ## Author
 
