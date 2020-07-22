@@ -1,11 +1,11 @@
 # svelte-ui
 
-Svelte components to be used in web applications.
+Svelte components to be used in web applications. <br />
 **Note**: This repo is currently under development and a live demo will be available soon.
 
 ## Get it to work
 
-> Copy, Clone or Download repository and import components through /_components/components.js_
+> Copy, clone or download repository and import components through /_components/components.js_
 
 ## Author
 
